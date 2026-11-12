@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Open 3D Buildings (bldg3d): best-available 3D building footprints from OpenStreetMap and satellite heights"
+version: 0.1.0
+date-released: 2026-11-03
+license: MIT
+authors:
+  - family-names: Dabbanavar
+    given-names: Ravi Satyappa
+    email: ravisd@nittesoa.ac.in
+    affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+  - family-names: "N"
+    given-names: Rohini
+    email: rohini@nittesoa.ac.in
+    affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+contact:
+  - family-names: Dabbanavar
+    given-names: Ravi Satyappa
+    email: ravisd@nittesoa.ac.in
+    affiliation: "Nitte School of Architecture, Planning and Design, Nitte University, Bengaluru, India"
+keywords:
+  - 3D buildings
+  - building height
+  - LoD1
+  - OpenStreetMap
+  - Google Open Buildings
+  - Google Earth Engine
